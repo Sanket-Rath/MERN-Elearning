@@ -76,3 +76,23 @@ Build MERN-Elearning from the source and install dependencies:
    ```bash
    git clone https://github.com/Sanket-Rath/MERN-Elearning
 
+2. **Navigate to Project Directory**:
+
+   ```bash
+   cd MERN-Elearning
+
+3. **Install the dependecies (using npm)**:
+
+   ```bash
+   npm install
+
+4. **Complete the .env File**
+
+---
+
+### Usage
+
+**Run the project with: **
+```bash
+npm start
+
