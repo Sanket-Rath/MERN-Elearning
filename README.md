@@ -92,7 +92,7 @@ Build MERN-Elearning from the source and install dependencies:
 
 ### Usage
 
-**Run the project with: **
+**Run the project with:**
 ```bash
 npm start
 
